@@ -14,12 +14,20 @@ FAISS: Vector databse
 
 ## Sample Questions
 Do you guys provide internship and also do you offer EMI payments?
+
 Do you have javascript course?
+
 Should I learn power bi or tableau?
+
 I've a MAC computer. Can I use powerbi on it?
+
 I don't see power pivot. how can I enable it?
+
 ## Project Structure
 main.py: The main Streamlit application script.
+
 langchain_helper.py: This has all the langchain code
+
 requirements.txt: A list of required Python packages for the project.
+
 .env: Configuration file for storing your Google API key.
